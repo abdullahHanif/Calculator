@@ -1,1 +1,1 @@
-https://github.com/abdullahHanif/Calculator
+\https://abdullahhanif.github.io/Calculator/
